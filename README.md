@@ -1,29 +1,23 @@
-# Case Studies — Renata Walker
+# Renata Walker — work, published
 
-An index of real projects, each written up in plain language in its own repo.
-These aren't meant to dazzle a hiring panel — they're meant to be genuinely
-readable and useful to anyone curious how a specific real problem got solved,
-technical background or not.
+An index of real things I've built, with links to each so anyone can use them
+directly — a working tool, a real methodology, real reasoning. Not written as
+stories about me; written so the thing itself is useful to you, whether or not
+you know anything about who I am.
 
-## The case studies
+## The work
 
-| Repo | The problem it covers |
-|---|---|
-| [`case-study-walker-diseno`](https://github.com/renatawalkerj/case-study-walker-diseno) | A 30-year family business's booking rate quietly collapsed even as demand grew — why, and the plan to fix it. |
-| [`case-study-pil`](https://github.com/renatawalkerj/case-study-pil) | How to keep an AI assistant trustworthy across months of ongoing work, instead of just one conversation. |
-| [`portfolio-pil`](https://github.com/renatawalkerj/portfolio-pil) | Two real personal-finance questions, worked through rigorously from primary sources instead of by gut feel. |
+| Repo | What it is | Try it |
+|---|---|---|
+| [`pil`](https://github.com/renatawalkerj/pil) | A lightweight system for keeping an AI assistant honest and in-bounds across months of ongoing work — the actual rules, file formats, and a real caught error. | [Live demo](https://claude.ai/code/artifact/bc25ac30-8555-4e1c-a7fe-8beaa476491f) |
+| [`job-search-pil`](https://github.com/renatawalkerj/job-search-pil) | A complete, reusable job-search system — tracking sheet, prompts, and an interactive pipeline dashboard — built from my own search and generalized so anyone can run it from scratch. | [Dashboard template](https://github.com/renatawalkerj/job-search-pil/blob/main/templates/dashboard-template.html) |
+| [`walker-diseno`](https://github.com/renatawalkerj/walker-diseno) | A real diagnostic method for finding out why a business's numbers dropped when nobody could explain why — and the checklist version of it, for anyone facing the same question. | — |
+| [`portfolio-pil`](https://github.com/renatawalkerj/portfolio-pil) | A real methodology for not trusting your own financial assumptions — verify against the primary source, log corrections, decide deliberately. Two real analyses using it. | — |
 
 Numbers are illustrative or rounded wherever the real figures are sensitive
 (family-business financials, personal account balances, a private company's
-holdings). The problem, the investigation, and the actual reasoning are real
-in every case.
-
-## A different kind of repo in the same family
-
-- [`job-search-pil`](https://github.com/renatawalkerj/job-search-pil) — not a
-  case study about me, but a reusable system: the actual job-search methodology
-  I built for myself, generalized so anyone navigating a layoff or career change
-  can pick it up and run it themselves from scratch.
+holdings). The methods, the reasoning, and the tools themselves are real and
+usable as-is.
 
 ## License
 
