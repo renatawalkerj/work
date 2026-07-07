@@ -1,27 +1,29 @@
 # Case Studies — Renata Walker
 
-Real product and systems work, written up in depth. This repo holds case studies
-that are too specific to a single real engagement to live in a reusable template
-repo, but that I still want to be able to point people to.
+An index of real projects, each written up in plain language in its own repo.
+These aren't meant to dazzle a hiring panel — they're meant to be genuinely
+readable and useful to anyone curious how a specific real problem got solved,
+technical background or not.
 
-## What's here
+## The case studies
 
-| Case study | What it covers |
+| Repo | The problem it covers |
 |---|---|
-| [`case-studies/walker-diseno-transformation.md`](case-studies/walker-diseno-transformation.md) | Diagnosing a 30-year family business's conversion collapse and designing a phased, AI-assisted operating system to fix it — from root-cause analysis through a multi-agent architecture design. |
+| [`case-study-walker-diseno`](https://github.com/renatawalkerj/case-study-walker-diseno) | A 30-year family business's booking rate quietly collapsed even as demand grew — why, and the plan to fix it. |
+| [`case-study-pil`](https://github.com/renatawalkerj/case-study-pil) | How to keep an AI assistant trustworthy across months of ongoing work, instead of just one conversation. |
+| [`portfolio-pil`](https://github.com/renatawalkerj/portfolio-pil) | Two real personal-finance questions, worked through rigorously from primary sources instead of by gut feel. |
 
-Figures in these write-ups are illustrative/rounded where the underlying numbers
-are real-business-sensitive (family business financials, a private company's
-compensation and holdings). Methodology, structure, and the actual decisions made
-are real.
+Numbers are illustrative or rounded wherever the real figures are sensitive
+(family-business financials, personal account balances, a private company's
+holdings). The problem, the investigation, and the actual reasoning are real
+in every case.
 
-## Related repos
+## A different kind of repo in the same family
 
-- [`job-search-pil`](https://github.com/renatawalkerj/job-search-pil) — a reusable
-  job-search methodology and tracking system, built from my own search and
-  generalized for anyone navigating a layoff or career transition.
-- [`portfolio-pil`](https://github.com/renatawalkerj/portfolio-pil) — a personal
-  investment-methodology case study (real methodology, sanitized figures).
+- [`job-search-pil`](https://github.com/renatawalkerj/job-search-pil) — not a
+  case study about me, but a reusable system: the actual job-search methodology
+  I built for myself, generalized so anyone navigating a layoff or career change
+  can pick it up and run it themselves from scratch.
 
 ## License
 
